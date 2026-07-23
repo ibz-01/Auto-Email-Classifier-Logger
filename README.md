@@ -1,6 +1,6 @@
 # 📧 AI Email Identifier (n8n + Google Gemini)
 
-Automatically analyzes incoming Gmail messages using Google Gemini AI and identifies potential spam or promotional emails by applying a Gmail label.
+Automatically analyzes incoming Gmail messages using Google Gemini API and identifies potential spam or promotional emails by applying a Gmail label.
 
 This workflow demonstrates AI-powered email classification using **n8n**, **Gmail**, **Google Gemini**, and **Google Sheets**.
 
